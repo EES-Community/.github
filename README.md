@@ -1,2 +1,1 @@
-# .github
-Engineering Equation Solver Community and Open Source Projects
+# Engineering Equation Solver Community and Open Source Projects
